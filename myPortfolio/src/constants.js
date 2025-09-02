@@ -26,7 +26,7 @@ import bachelor from "./assets/education_logo/bachelor.png";
 
 // // Project Section Logo's
 import ChatApp from "./assets/work_logo/chatApp.png";
-import ecommerce from "./assets/work_logo/E-commerce.png";
+import ecommerce from "./assets/work_logo/E-Commerce.png";
 
 export const SkillsInfo = [
   {

@@ -5,6 +5,9 @@ import Navbar from "./components/Navbar/navbar";
 import Skills from "./components/skills/Skills";
 import Education from "./components/Education/education";
 import BlurBlob from "./BlurBlob";
+import Experience from "./components/experience/Experience";
+import Work from "./components/work/Work";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -21,8 +24,11 @@ function App() {
           <Navbar />
           <About />
           <Skills />
+          <Experience />
+          <Work />
           <Education />
           <Contact />
+          <Footer />
         </div>
       </div>
     </>

@@ -27,10 +27,12 @@ const About = () => {
             <span className="text-white">I am a </span>
             <TypeAnimation
               sequence={[
-                "Fullstack Developer", 2000,
-                "App Developer", 2000,
-                "UI/UX Designer", 2000,
-                "Coder", 2000,
+                "Fullstack Developer",
+                2000,
+                "Frontend Developer",
+                2000,
+                "Coder",
+                2000,
               ]}
               wrapper="span"
               speed={50}
@@ -41,7 +43,7 @@ const About = () => {
 
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a full-stack developer with over 2 years of experience in
+            I am a full-stack developer with over 1 years of experience in
             building scalable web applications. Skilled in both front-end and
             back-end development, I specialize in the MERN stack and other
             modern technologies to create seamless user experiences and
